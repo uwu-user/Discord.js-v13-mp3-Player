@@ -1,6 +1,7 @@
 > bruh
 
-*With this> you can play files «mp3,mp4,m4a,mov...» files within Discord without problems*
+*With this you can play «mp3,mp4,m4a,mov...» files within Discord without problems*
+"in the easiest possible way"*
 
 ---
 
