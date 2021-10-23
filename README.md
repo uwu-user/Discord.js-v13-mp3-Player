@@ -94,7 +94,7 @@ npm install node-opus
 
 <details>
 <summary>
-  Discord.js v13.1.0
+  Discord.js v13.2.0
 </summary>
 
 <br >
