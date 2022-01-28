@@ -14,10 +14,6 @@
 
 --- 
 
-**A lot of changes have been made from Discord.v12 to Discord.v13 in relation to voice**.
-
-*I don't know why I'm here anyway?*
-
 <img src= "https://raw.githubusercontent.com/uwu-user/Discord.js-v13-mp3-Player/main/Screenshot/Screenshot.png" alt="Screenshot">
 
 
@@ -25,8 +21,6 @@
 </details>
 
 ---
-
-» *You can get everything inside index.js :3*
 
 **❒ | if you need something » Unknown_#7004**
 
